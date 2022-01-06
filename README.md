@@ -53,4 +53,4 @@ by a PR so other fellow can try it.
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
 |     |           |      |             |       |
-|779691|[Tomás Pelayo](https://github.com/Tomenos18/lab6-microservices)|[Report](https://github.com/Tomenos18/lab6-microservices/blob/test/Report.md)| | |
+|779691|[Tomás Pelayo](https://github.com/Tomenos18/lab6-microservices)|[Report](https://github.com/Tomenos18/lab6-microservices/blob/test/report.md)| | |
